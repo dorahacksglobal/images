@@ -1,6 +1,6 @@
 ---
 title: "Article title"  # 保留头尾的引号，技术上比较安全
-date: yyyy-mm-dd
+date: yyyy-mm-dd  # 文章日期，可任意指定，例如：2011-02-01
 author: "Author Name"  # 保留头尾的引号，技术上比较安全
 lang: en  # 如果是中文文章，改成：zh
 mathjax: true  # 如果不需要数学公式支持，删去这行
