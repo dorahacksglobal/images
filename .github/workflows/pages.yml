@@ -1,0 +1,22 @@
+name: Pages
+
+on:
+  push:
+    branches:
+      - master  # default branch
+
+jobs:
+  pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js 16.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: '16.x'
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: gh-pages  # deploying branch
