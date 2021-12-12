@@ -1,6 +1,6 @@
 ---
 title: "Article title"  # 保留头尾的引号，技术上比较安全
-date: yyyy-mm-dd  # 显示在网页上的文章发布日期，可以任意设定，例如：1789-07-14
+date: yyyy-mm-dd  # 显示在网页上的文章发布日期，可按需设定，例如：1789-07-14
 #permalink: "yyyy/mm/dd/article-title/"  # 慎用；如需使用，删除本行最开头的 `#`
 author: "Author Name"  # 保留头尾的引号，技术上比较安全
 lang: en  # 如果是中文文章，改成：zh（注意是全小写）
