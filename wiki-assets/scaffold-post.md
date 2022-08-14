@@ -11,7 +11,7 @@ categories:  # 删去不想要的分类（删去整行）
 - [Funding Mechanisms]
 - [Economics]
 - [Blockchain]
-- [DoraHacks]
+- [DoraHacks.io]
 - [DAOrayaki]
 - [English]
 - [中文]
