@@ -9,6 +9,7 @@ categories:  # 删去不想要的分类（删去整行）
 - [Hackathon]
 - [Governance]
 - [Funding Mechanisms]
+- [DAO Tooling]
 - [Economics]
 - [Blockchain]
 - [DoraHacks.io]
