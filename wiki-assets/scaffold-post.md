@@ -7,13 +7,13 @@ lang: en  # 如果是中文文章，改成：zh（注意是全小写）
 mathjax: true  # 如果不需要数学公式支持，删去这行
 categories:  # 删去不想要的分类（删去整行）
 - [Hackathon]
-- [Governance]
+- [Public Good Staking]
+- [Voting & Governance]
 - [Funding Mechanisms]
-- [DAO Tooling]
-- [Economics]
+- [Quantum Computing]
 - [Blockchain]
-- [DoraHacks.io]
-- [DAOrayaki]
+- [Space Infra & Gov]
+- [DAOrayaki | YakiHonne]
 - [English]
 - [中文]
 excerpt: "Leave a short message to summarize this article."  # 选填（保留头尾的引号，不填可直接删去这行），对 SEO 和社交网站分享有用
